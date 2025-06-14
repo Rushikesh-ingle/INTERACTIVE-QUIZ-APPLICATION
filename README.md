@@ -116,6 +116,9 @@ npm run lint
 ├── package.json
 └── README.md
 ```
+## output screenshot
 
+![Image](https://github.com/user-attachments/assets/bda7af71-b43b-4bfd-8b66-ae9fee911dea)
+![Image](https://github.com/user-attachments/assets/7cce0f50-9f37-4645-beb2-c41541e8c219)
 ---
 
