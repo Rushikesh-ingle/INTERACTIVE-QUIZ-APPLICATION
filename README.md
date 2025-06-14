@@ -12,16 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-Thanks! I’ve extracted your project. Here’s what I see:
-
-* ✅ `index.html` — main HTML entry
-* ✅ `package.json` — project dependencies
-* ✅ TailwindCSS config (`tailwind.config.js`)
-* ✅ TypeScript support (`tsconfig.app.json`)
-* ✅ Linting (`eslint.config.js`)
-* ✅ A `README.md` already exists, but I’ll regenerate a fresh and professional one for you
-
----
+## HERE'S THE DESCRIPTION
 
 ### 📘 Based on file structure, this appears to be:
 
