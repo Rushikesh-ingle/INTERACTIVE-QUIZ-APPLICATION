@@ -73,7 +73,7 @@ npm install
 npm run dev
 ```
 
-The app will be available at: [http://localhost:5173](http://localhost:5173)
+
 
 ---
 
@@ -112,11 +112,4 @@ npm run lint
 ```
 
 ---
-
-### 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 
